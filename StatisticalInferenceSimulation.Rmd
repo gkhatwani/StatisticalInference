@@ -5,8 +5,7 @@ date: "02/20/2015"
 output:
   html_document:
     keep_md: yes
-  pdf_document:
-    latex_engine: lualatex
+  pdf_document: default
   word_document: default
 subtitle: 'Statistical Inference - Data Science Specialization - Coursera/JHU '
 ---
